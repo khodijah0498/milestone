@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+
+
+
+
+.nvlt .active{
+    @apply text-primary font-bold
+}
+
+
+
+.home::before{
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #b321caae;
+}
+
+@tailwind utilities;
