@@ -19,8 +19,8 @@ const Projects = () => {
     <div className="md:py-6 py-3">
       {current ? (
         <div>
-          <div className=" bg-secondary py-5 md:py-10 px-6 md:px-24">
-            <div className="">{current.icon}</div>
+          <div className=" ">
+            <img src={current.icon} className="w-full h-1/2"/>
 
             <p className="text-primary text-center font-bold text-4xl capitalize">
               {current.name}
