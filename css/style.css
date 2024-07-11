@@ -177,32 +177,32 @@ html {
   border-width: 5px; }
 
 .primary-black--hover {
-  background: #00a651;
+  background:  #74E14A;
   color: #fff; }
   .primary-black--hover:hover {
     background: #000;
     color: #fff; }
 
 .primary-dark--hover {
-  background: #00a651;
+  background:  #74E14A;
   color: #fff; }
   .primary-dark--hover:hover {
     background: gray;
     color: #fff; }
 
 .primary-primary-outline--hover {
-  background: #00a651;
+  background:  #74E14A;
   color: #fff; }
   .primary-primary-outline--hover:hover {
-    border-color: #00a651;
+    border-color: #74E14A;
     background: transparent; }
 
 .primary-outline-primary--hover {
   background: transparent;
-  border-color: #00a651; }
+  border-color:  #74E14A; }
   .primary-outline-primary--hover:hover {
     color: #fff;
-    background: #00a651; }
+    background: #74E14A; }
 
 body {
   line-height: 1.7;
@@ -1834,7 +1834,7 @@ h1, h2, h3, h4, h5,
 
 
 
-/* GABRIEL STYLING */
+/* MILE STYLING */
 .h-200{
   height: 250px;
   overflow: hidden;
